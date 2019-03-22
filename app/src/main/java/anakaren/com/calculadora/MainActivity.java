@@ -61,7 +61,10 @@ public class MainActivity extends AppCompatActivity {
         sin = findViewById(R.id.button20);
         exponent = findViewById(R.id.button21);
 
-
+        sumar (a, b);
+        restar (a, b);
+        multiplicar (a, b);
+        dividir (a, b);
 
 
     }
